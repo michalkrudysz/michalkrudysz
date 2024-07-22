@@ -4,7 +4,7 @@
 
 - 📧 michal@krudysz.pl
 
-## About me 📝:
+## About me:
 
 - 🌍 I'm a full-stack developer from Rzeszów, passionate about creating applications that simplify everyday life.
 - 📚 For me, programming is more than just writing code—it's the joy of realizing projects that can positively impact the lives of others.
@@ -17,7 +17,7 @@
 - 🎥 In the past, I've also created commercial spots and wedding videos, which has provided me with experience in logistics, client relations, and teamwork.
 - 📈 Every day, I expand my portfolio, which is why new projects related to machine learning and emerging web application technologies will be added to my repository.
 
-## Tech Stack 🔧:
+## Tech Stack:
 
 ### Languages:
 
