@@ -1,10 +1,10 @@
-## Hello! 👋 I'm Michał, a software developer specializing in building web applications.
+# Hello! 👋 I'm Michał, a software developer specializing in building web applications.
 
-### Contact:
+## Contact:
 
 - 📧 michal@krudysz.pl
 
-### About me:
+## About me 📝:
 
 - 🌍 I'm a full-stack developer from Rzeszów, passionate about creating applications that simplify everyday life.
 - 📚 For me, programming is more than just writing code—it's the joy of realizing projects that can positively impact the lives of others.
@@ -17,9 +17,9 @@
 - 🎥 In the past, I've also created commercial spots and wedding videos, which has provided me with experience in logistics, client relations, and teamwork.
 - 📈 Every day, I expand my portfolio, which is why new projects related to machine learning and emerging web application technologies will be added to my repository.
 
-### Tech Stack:
+## Tech Stack 🔧:
 
-#### Languages
+### Languages:
 
 ---
 
@@ -27,7 +27,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-#### Frontend:
+### Frontend:
 
 ---
 
@@ -38,7 +38,7 @@
 ![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=tanstack-query&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-#### Backend:
+### Backend:
 
 ---
 
@@ -46,14 +46,14 @@
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23009688.svg?style=for-the-badge&logo=rest-api&logoColor=white)
 
-#### Database:
+### Database:
 
 ---
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
-#### Tools:
+### Tools:
 
 ---
 
@@ -62,7 +62,7 @@
 ![Workbench](https://img.shields.io/badge/workbench-%23EEEEEE.svg?style=for-the-badge&logo=workbench&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### Design:
+### Design:
 
 ---
 
