@@ -7,7 +7,7 @@
 ## About me:
 
 - 🌍 I'm a full-stack developer from Rzeszów, passionate about creating applications that simplify everyday life.
-- 📚 For me, programming is more than just writing code—it's the joy of realizing projects that can positively impact the lives of others.
+- 📚 For me, programming is more than just writing code - it's the joy of realizing projects that can positively impact the lives of others.
 - 🎓 I completed my engineering studies with a specialization in internet and mobile technologies. My engineering thesis focused on a web application designed to support family life organization.
 - 🎓 I'm currently finishing my master's degree in software engineering, researching the efficacy of hybrid approaches in recommendation systems.
 - 🖥️ From my earliest years, beginning with my education at a technical high school specializing in computer science, I have always been fascinated by this field.
